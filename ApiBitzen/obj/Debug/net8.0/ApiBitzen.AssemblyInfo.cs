@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiBitzen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff11d3440b5543e30fdc8711818148cbcfa20445")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54aa354a092049ae9a707f46388eb10a45f0600f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiBitzen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiBitzen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
